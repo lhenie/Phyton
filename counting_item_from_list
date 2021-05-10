@@ -1,0 +1,5 @@
+subjects = ["Data Mining", "Software Engineering", "Networking", "Project Management", "Graphics Animation"]
+course = ["Information Technology", "Information Systems", "Computer Science"]
+
+count = subjects.count("Software Engineering")
+print("The count of Software Engineering  in a list is: ", count)
