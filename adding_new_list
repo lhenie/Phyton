@@ -1,0 +1,6 @@
+subjects = ["Data Mining", "Software Engineering", "Networking", "Project Management", "Graphics Animation"]
+new_subjects = [subjects[0], subjects[1]]
+course = ["Information Technology", "Information Systems", "Computer Science"]
+
+print(subjects)
+print("The new created subject list: ", new_subjects)
